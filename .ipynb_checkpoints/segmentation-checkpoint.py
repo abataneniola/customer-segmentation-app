@@ -226,7 +226,7 @@ if 'predicted_cluster' not in st.session_state:
 col_pred, col_reset = st.columns([3, 1])
 
 with col_pred:
-    predict_button = st.button("🔮 Predict the Cluster", use_container_width=True)
+    predict_button = st.button("🔮 Predict the Segment", use_container_width=True)
 
 # Handle prediction
 if predict_button:
