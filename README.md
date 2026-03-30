@@ -72,13 +72,4 @@ streamlit run segmentation.py
 **Built with ❤️ using Machine Learning and Streamlit**
 ```
 
-## To Update Your README:
 
-```bash
-# 1. Edit README.md and add the author section
-# 2. Save the file
-# 3. Commit and push:
-git add README.md
-git commit -m "Add author section with full name"
-git push
-```
