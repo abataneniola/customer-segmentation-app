@@ -69,7 +69,7 @@ streamlit run segmentation.py
 
 ---
 
-**✨ Built with ❤️ using Machine Learning and Streamlit ✨**
+** Built with ❤️ using Machine Learning and Streamlit **
 ```
 
 ## To Update Your README:
