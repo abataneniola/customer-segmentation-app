@@ -3,14 +3,14 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-segmentation-app-gxzappxzwy8x2w7t49xetn.streamlit.app/)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-## 📊 Live Demo
-**🚀 Try it yourself:** [Customer Segmentation App](https://customer-segmentation-app-gxzappxzwy8x2w7t49xetn.streamlit.app/)
+##  Live Demo
+**Try it yourself:** [Customer Segmentation App](https://customer-segmentation-app-gxzappxzwy8x2w7t49xetn.streamlit.app/)
 
 ## 🎬 Demo Video
 
 [![Watch the Demo Video](page.JPG)](Demo.mp4)
 
-*Click the screenshot above to watch the app in action!*
+*The video is too large to preview on GitHub. Click "View raw" to download and watch it locally.*
 
 Or watch directly: [Demo.mp4](Demo.mp4)
 
@@ -59,3 +59,26 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run segmentation.py
+```
+
+## 👨‍💻 Author
+
+**Abatan Eniola John**
+- GitHub: [@abataneniola](https://github.com/abataneniola)
+- Live Demo: [Customer Segmentation App](https://customer-segmentation-app-gxzappxzwy8x2w7t49xetn.streamlit.app/)
+
+---
+
+**✨ Built with ❤️ using Machine Learning and Streamlit ✨**
+```
+
+## To Update Your README:
+
+```bash
+# 1. Edit README.md and add the author section
+# 2. Save the file
+# 3. Commit and push:
+git add README.md
+git commit -m "Add author section with full name"
+git push
+```
