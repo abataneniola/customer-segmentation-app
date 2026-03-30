@@ -6,6 +6,14 @@
 ## 📊 Live Demo
 **🚀 Try it yourself:** [Customer Segmentation App](https://customer-segmentation-app-gxzappxzwy8x2w7t49xetn.streamlit.app/)
 
+## 🎬 Demo Video
+
+[![Watch the Demo Video](page.JPG)](Demo.mp4)
+
+*Click the screenshot above to watch the app in action!*
+
+Or watch directly: [Demo.mp4](Demo.mp4)
+
 ## 📸 App Screenshots
 
 ### Customer Input Interface
@@ -51,11 +59,3 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run segmentation.py
-
-👨‍💻 Author
-
-Abatan Eniola
-
-    GitHub: @abataneniola
-
-    Live Demo: Customer Segmentation App
